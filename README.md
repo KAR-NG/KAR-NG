@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Machine Learning projects
-- 🌱 I’m currently collaborating with PhD Students on a Soil Science Project
+- 🌱 I’m currently collaborating with PhD Students on a Soil Science Project with R and Git
 - 👯 I’m looking to collaborate on R Projects 
 - 📫 Visit my LinkedIn: https://rpubs.com/kar_ng
 - ⚡ Fun fact: My brain was full of guitar tabs until I met codes! 
