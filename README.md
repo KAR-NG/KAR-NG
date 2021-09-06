@@ -4,7 +4,7 @@
 - 🌱 I’m currently collaborating with PhD Students on a Soil Science Project
 - 👯 I’m looking to collaborate on R Projects 
 - 📫 Visit my LinkedIn: https://rpubs.com/kar_ng
-- ⚡ Fun fact: My brain was full of guitar tabs until I met programming codes! 
+- ⚡ Fun fact: My brain was full of guitar tabs until I met codes! 
 
 <!--
 **KAR-NG/KAR-NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
