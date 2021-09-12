@@ -10,5 +10,6 @@
 **KAR-NG/KAR-NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![WeChat Image_20210805200905](https://user-images.githubusercontent.com/81752452/132266266-c0e62f95-b3ee-48e7-b485-2c03af3cbf93.jpg)
+![github](https://user-images.githubusercontent.com/81752452/132992605-731e5d56-233f-4424-89f4-5312e062c5d6.png)
+
 
