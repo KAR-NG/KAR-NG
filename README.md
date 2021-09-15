@@ -9,6 +9,6 @@
 **KAR-NG/KAR-NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![github](https://user-images.githubusercontent.com/81752452/132992605-731e5d56-233f-4424-89f4-5312e062c5d6.png)
+![github](https://user-images.githubusercontent.com/81752452/133365577-6c5f929e-0fee-4d96-a06d-34ef0a2b1ad9.png)
 
 
