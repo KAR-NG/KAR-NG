@@ -5,10 +5,7 @@
 - 👯 I’m looking to collaborate on R Projects 
 - 📫 Visit my LinkedIn: https://rpubs.com/kar_ng
 
-<!--
-**KAR-NG/KAR-NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![github](https://user-images.githubusercontent.com/81752452/133864645-7f9cc77e-8868-49af-8db3-c874f24287ca.png)
 
-![github](https://user-images.githubusercontent.com/81752452/133365577-6c5f929e-0fee-4d96-a06d-34ef0a2b1ad9.png)
 
 
