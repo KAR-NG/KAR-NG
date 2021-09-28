@@ -8,7 +8,7 @@
 ![github](https://user-images.githubusercontent.com/81752452/133864645-7f9cc77e-8868-49af-8db3-c874f24287ca.png)
 
 
-Visitable -
+Visitable:
 
 [Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model) | Machine Learning (Classification)   
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Modeling + Statistical Group Comparision   
