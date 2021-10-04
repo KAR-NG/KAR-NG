@@ -19,5 +19,5 @@ Visitable:
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 [Bike-Share Big Data Analysis](https://rpubs.com/kar_ng/786210) | EDA + Mapping  
 [Brisbane Real Estate Sales](https://rpubs.com/kar_ng/787195) | EDA + Mapping  
-[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Data Cleaning and Manipulation  
+[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | text wrangling, imputation model, data cleaning and manipulation 
 
