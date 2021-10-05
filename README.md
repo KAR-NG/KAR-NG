@@ -10,7 +10,8 @@
 
 Visitable:
 
-[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) | Machine Learning (Classification)   
+[Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | Machine Learning (Regression) + RShiny App  
+[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) | Machine Learning (Classification) + Plumber App  
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + Machine Learning Techniques + Statistical Group Comparision   
 [Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast   
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
