@@ -22,3 +22,4 @@ Visitable:
 [Oats Variety-Fertilizer Split-plot Field Experiment](https://github.com/KAR-NG/Oats_Variety-Fertilizer_SplitPlot_Field_Experiment/blob/main/splitplot.md) | Statistical Group Comparison   
 [Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation 
 
+![plot1](https://user-images.githubusercontent.com/81752452/137625336-947b0972-d20e-4506-aaff-ab881d203d60.png)
