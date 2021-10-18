@@ -1,5 +1,4 @@
-![000056](https://user-images.githubusercontent.com/81752452/137728061-3a03afd4-0f23-4832-8b23-e42da1e98e40.png)
-
+![000056](https://user-images.githubusercontent.com/81752452/137728266-506009c9-d520-4876-8c2a-330c0f36a033.png)
 
 ### Hi there 👋
 
