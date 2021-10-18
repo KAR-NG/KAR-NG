@@ -1,5 +1,3 @@
-![000056](https://user-images.githubusercontent.com/81752452/137728266-506009c9-d520-4876-8c2a-330c0f36a033.png)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on Machine Learning projects
