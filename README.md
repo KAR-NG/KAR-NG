@@ -1,3 +1,6 @@
+![000056](https://user-images.githubusercontent.com/81752452/137728061-3a03afd4-0f23-4832-8b23-e42da1e98e40.png)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Machine Learning projects
