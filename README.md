@@ -10,6 +10,7 @@
 
 Visitable:
 
+[Ecommence Clothes Sales]|EDA, Text Mining, Inferential Model **In Progress** 
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | Machine Learning (Regression) + RShiny App  
 [Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) | Machine Learning (Classification) + Plumber App  
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + Machine Learning Techniques + Statistical Group Comparision   
