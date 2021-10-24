@@ -8,7 +8,7 @@
 ![github](https://user-images.githubusercontent.com/81752452/133864645-7f9cc77e-8868-49af-8db3-c874f24287ca.png)
 
 
-Visitable:
+12 Visitable projects:
 
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + Random Forest   
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | Machine Learning (Regression) + RShiny App  
