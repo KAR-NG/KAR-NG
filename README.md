@@ -1,14 +1,11 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on Machine Learning projects
-- 🌱 I’m currently collaborating with PhD Students on agricultural science Project with R and Git
-- 👯 I’m looking to collaborate on R Projects 
-- 📫 Visit my LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
+ 
+ 📫 Here is my LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
 ![github](https://user-images.githubusercontent.com/81752452/133864645-7f9cc77e-8868-49af-8db3-c874f24287ca.png)
 
 
-12 Visitable projects:
+🌱 12 Visitable projects:
 
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + Random Forest   
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | Machine Learning (Regression) + RShiny App  
