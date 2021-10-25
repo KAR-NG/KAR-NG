@@ -2,7 +2,7 @@
  
  📫 Here is my LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
-![github](https://user-images.githubusercontent.com/81752452/133864645-7f9cc77e-8868-49af-8db3-c874f24287ca.png)
+![Work Samples](https://user-images.githubusercontent.com/81752452/138634353-0090f31e-00ca-4468-9999-11ba8e281885.JPG)
 
 
 🌱 12 Visitable projects:
