@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome, My pleasure to have your visit!
+### Hi there 👋 Welcome to Kar's Github!
 
 ---
 
