@@ -17,10 +17,11 @@
 [Maize: Soil-Nutrient CRD Glasshouse Experiment](https://github.com/KAR-NG/Maize_Soil_Nutrient_CRD_Glasshouse_Experiment-/blob/main/maize_crd.md) | Statistical Group Comparison   
 [Oats Variety-Fertilizer Split-plot Field Experiment](https://github.com/KAR-NG/Oats_Variety-Fertilizer_SplitPlot_Field_Experiment/blob/main/splitplot.md) | Statistical Group Comparison   
 
+---
 
 ![Work Samples](https://user-images.githubusercontent.com/81752452/138634353-0090f31e-00ca-4468-9999-11ba8e281885.JPG)
 
-
+---
 
 
 
