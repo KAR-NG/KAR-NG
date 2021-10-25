@@ -16,7 +16,7 @@
 [Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast + PowerBI   
 [Cucumber Multi-Env Latin Square Field Experiment](https://github.com/KAR-NG/Cucumber_Multi-Env_LatinSquare_Field_Experiment/blob/main/multi_latin.md) | Statistical Group 
 Comparison  
-[Maize: Soil-Nutrient CRD Glasshouse Experiment](https://github.com/KAR-NG/Maize_Soil_Nutrient_CRD_Glasshouse_Experiment-/blob/main/maize_crd.md) | Statistical Group Comparison 
+[Maize: Soil-Nutrient CRD Glasshouse Experiment](https://github.com/KAR-NG/Maize_Soil_Nutrient_CRD_Glasshouse_Experiment-/blob/main/maize_crd.md) | Statistical Group Comparison  
 [Oats Variety-Fertilizer Split-plot Field Experiment](https://github.com/KAR-NG/Oats_Variety-Fertilizer_SplitPlot_Field_Experiment/blob/main/splitplot.md) | Statistical Group Comparison   
 
 ---
