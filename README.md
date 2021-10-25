@@ -4,11 +4,11 @@
 
 🌱 12 Visitable projects:
 
-[E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + Machine Learning (Random Forest)     
+[E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + **Machine Learning** (Random Forest)     
 
-[Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + Machine Learning (Techniques) + Statistical Group Comparision  
+[Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + **Machine Learning** (Techniques) + Statistical Group Comparision  
 
-[Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | Machine Learning (Regression) + RShiny App  
+[Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | **Machine Learning** (Regression) + RShiny App  
 
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 
@@ -18,7 +18,7 @@
 
 [Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation   
 
-[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) | Machine Learning 
+[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) | **Machine Learning** 
 (Classification) + Plumber App  
 
 [Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast + PowerBI   
