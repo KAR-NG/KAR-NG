@@ -1,12 +1,8 @@
 ### Hi there 👋
  
- 📫 Here is my LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
-
-![Work Samples](https://user-images.githubusercontent.com/81752452/138634353-0090f31e-00ca-4468-9999-11ba8e281885.JPG)
-
+📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
 🌱 12 Visitable projects:
-
 
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + Random Forest   
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | Machine Learning (Regression) + RShiny App  
@@ -20,6 +16,11 @@
 [Cucumber Multi-Env Latin Square Field Experiment](https://github.com/KAR-NG/Cucumber_Multi-Env_LatinSquare_Field_Experiment/blob/main/multi_latin.md) | Statistical Group Comparison  
 [Maize: Soil-Nutrient CRD Glasshouse Experiment](https://github.com/KAR-NG/Maize_Soil_Nutrient_CRD_Glasshouse_Experiment-/blob/main/maize_crd.md) | Statistical Group Comparison   
 [Oats Variety-Fertilizer Split-plot Field Experiment](https://github.com/KAR-NG/Oats_Variety-Fertilizer_SplitPlot_Field_Experiment/blob/main/splitplot.md) | Statistical Group Comparison   
+
+
+![Work Samples](https://user-images.githubusercontent.com/81752452/138634353-0090f31e-00ca-4468-9999-11ba8e281885.JPG)
+
+
 
 
 
