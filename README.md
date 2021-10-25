@@ -28,5 +28,4 @@
 
 ---
 
-Thank you for visiting and I wish you have a best day.
 
