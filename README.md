@@ -1,6 +1,4 @@
-### Hi there 👋
- 
-📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
+### Hi there 👋 Welcome, My pleasure to have your visit!
 
 ---
 
@@ -24,6 +22,8 @@
 ![Work Samples](https://user-images.githubusercontent.com/81752452/138634353-0090f31e-00ca-4468-9999-11ba8e281885.JPG)
 
 ---
+
+📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
 
 
