@@ -26,5 +26,7 @@
 
 📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
+---
 
+Thank you for visiting and I hope you have a best day.
 
