@@ -28,5 +28,5 @@
 
 ---
 
-Thank you for visiting and I hope you have a best day.
+Thank you for visiting and I wish you have a best day.
 
