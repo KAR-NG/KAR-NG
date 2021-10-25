@@ -10,7 +10,7 @@
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 [Bike-Share Big Data Analysis](https://rpubs.com/kar_ng/786210) (RPubs) | EDA + Mapping  
 [Brisbane Real Estate Sales](https://rpubs.com/kar_ng/787195) (RPubs) | EDA + Mapping  
-[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation 
+[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation   
 [Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) | Machine Learning (Classification) + Plumber App  
 [Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast + PowerBI   
 [Cucumber Multi-Env Latin Square Field Experiment](https://github.com/KAR-NG/Cucumber_Multi-Env_LatinSquare_Field_Experiment/blob/main/multi_latin.md) | Statistical Group Comparison  
