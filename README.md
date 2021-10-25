@@ -2,6 +2,8 @@
  
 📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
+---
+
 🌱 12 Visitable projects:
 
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + Random Forest   
