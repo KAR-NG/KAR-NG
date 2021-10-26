@@ -4,7 +4,7 @@
 
 🌱 12 Visitable projects:
 
-[Analysis of Titanic Mortality] (Uploading) | Mapping + Inferential Model + **Machine Learning**(Classification) + Interactive Dashboard  
+[Titanic Mortality Complete Analysis] (Uploading) | Mapping + Inferential Model + **Machine Learning** (Classification) + Interactive Dashboard  
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + **Machine Learning** (Random Forest)     
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + **Machine Learning** (Techniques) + Statistical Group Comparision  
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | **Machine Learning** (Regression) + RShiny App  
