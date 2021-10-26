@@ -25,7 +25,9 @@ Comparison
 
 ---
 
-![Demo](https://user-images.githubusercontent.com/81752452/138799366-c733f329-b824-441f-a6f1-bf5967a3a2e8.png)
+*Examples*
+
+![Demo](https://user-images.githubusercontent.com/81752452/138801220-c09c8efc-259b-49a3-abd3-ff4935b0a229.png)
 
 ---
 
