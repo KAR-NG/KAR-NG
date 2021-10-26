@@ -32,6 +32,13 @@ Comparison
 
 ---
 
+![image](https://user-images.githubusercontent.com/81752452/138976518-f87076c7-c1a5-40f8-9491-ae4bb32f24ea.png)
+
+R is an advanced programming language for statistical computing and graphics, and its free software (RStudio) can be installed in any computer and immediately outputting modern deliverables. 
+
+---
+
+
 📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
 ---
