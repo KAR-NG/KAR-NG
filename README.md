@@ -4,7 +4,7 @@
 
 🌱 12 Visitable projects:
 
-[Titanic Mortality Complete Analysis] (Uploading) | Mapping + Inferential Model + **Machine Learning** (Classification) + Interactive Dashboard  
+[Titanic Mortality Complete Analysis] (Uploading) | Mapping + **Machine Learning** (Classification) + Interactive Dashboard  
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + **Machine Learning** (Random Forest)     
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + **Machine Learning** (Techniques) + Statistical Group Comparision  
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | **Machine Learning** (Regression) + RShiny App  
@@ -34,7 +34,7 @@ Comparison
 
 ![image](https://user-images.githubusercontent.com/81752452/138976518-f87076c7-c1a5-40f8-9491-ae4bb32f24ea.png)
 
-R is an advanced programming language for statistical computing and graphics, and its free software (RStudio) can be installed in any computer and immediately outputting modern deliverables. 
+R is an advanced programming language for statistical computing and graphics, and its free software (RStudio) can be immediately installed and start outputting modern deliverables. 
 
 ---
 
