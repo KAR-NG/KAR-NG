@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Kar's Github!
+### Hi 👋 Welcome to Kar's Github!
 
 ---
 
