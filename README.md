@@ -6,7 +6,7 @@
  
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + **Machine Learning** (Random Forest)     
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + **Machine Learning** (Techniques) + Statistical Group Comparision  
-[Titanic Mortality Complete Analysis](https://rpubs.com/kar_ng/827540) (RPubs) | Mapping + **Machine Learning** (Classification) + Interactive Dashboard 
+[Titanic Mortality Complete Analysis](https://rpubs.com/kar_ng/827540) (RPubs) | Mapping + **Machine Learning** (Classification) + Interactive Dashboard  
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | **Machine Learning** (Regression) + RShiny App  
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 [Bike-Share Big Data Analysis](https://rpubs.com/kar_ng/786210) (RPubs) | EDA + Mapping  
