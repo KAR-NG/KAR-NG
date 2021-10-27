@@ -30,12 +30,10 @@ Comparison
 
 ![yes](https://user-images.githubusercontent.com/81752452/139083486-7790a9d5-0b98-43b5-8386-cbc9a781016f.png)
 
-![Kar is having fun with some data animation](https://user-images.githubusercontent.com/81752452/139082065-63b80f9b-f679-46fe-8ea0-d484a141b73d.gif){width=50%}
-
-![movie1](https://user-images.githubusercontent.com/81752452/139082365-9af6e5a2-44d5-4cfb-ac63-0b99a81adc69.gif)
-
 ---
 
 📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
 
 ---
+
+![Kar is having fun with some data animation](https://user-images.githubusercontent.com/81752452/139082065-63b80f9b-f679-46fe-8ea0-d484a141b73d.gif)
