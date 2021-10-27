@@ -32,8 +32,8 @@ Comparison
 
 ---
 
-📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
+![Kar is having fun with some data animation](https://user-images.githubusercontent.com/81752452/139082065-63b80f9b-f679-46fe-8ea0-d484a141b73d.gif)
 
 ---
 
-![Kar is having fun with some data animation](https://user-images.githubusercontent.com/81752452/139082065-63b80f9b-f679-46fe-8ea0-d484a141b73d.gif)
+📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
