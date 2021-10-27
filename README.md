@@ -2,7 +2,7 @@
 
 ---
 
-🌱 12 Visitable projects:
+🌱 13 Visitable projects:
  
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + **Machine Learning** (Random Forest)     
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + **Machine Learning** (Techniques) + Statistical Group Comparision  
