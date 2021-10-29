@@ -37,4 +37,8 @@ Comparison
 
 ---
 
+[Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/)  
+
+---
+
 📫 LinkedIn: https://www.linkedin.com/in/kar-hou-ng/
