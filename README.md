@@ -22,7 +22,7 @@ Comparison
 
 ---
 
-[Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/) (35 seconds runtime)  
+[Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/) (Page load time: 35 sec)  
 
 ---
 
