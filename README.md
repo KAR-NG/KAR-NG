@@ -6,7 +6,7 @@
  
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + **Machine Learning** (Random Forest)     
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + **Machine Learning** (Techniques) + Statistical Group Comparision  
-[Titanic Mortality Complete Analysis](https://rpubs.com/kar_ng/827540) (RPubs) | Mapping + **Machine Learning** (Classification) + [Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/)  
+[Titanic Mortality Complete Analysis](https://rpubs.com/kar_ng/827540) (RPubs) | Mapping + **Machine Learning** (Classification) + Interactive Dashboard (ShinyApp.io)
 [Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | **Machine Learning** (Regression) + RShiny App  
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 [Bike-Share Big Data Analysis](https://rpubs.com/kar_ng/786210) (RPubs) | EDA + Mapping  
@@ -19,6 +19,10 @@
 Comparison  
 [Maize: Soil-Nutrient CRD Glasshouse Experiment](https://github.com/KAR-NG/Maize_Soil_Nutrient_CRD_Glasshouse_Experiment-/blob/main/maize_crd.md) | Statistical Group Comparison   
 [Oats Variety-Fertilizer Split-plot Field Experiment](https://github.com/KAR-NG/Oats_Variety-Fertilizer_SplitPlot_Field_Experiment/blob/main/splitplot.md) | Statistical Group Comparison   
+
+---
+*If the link in my CV isn't working, please click here!*
+[Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/) (35 seconds runtime)
 
 ---
 
@@ -34,10 +38,6 @@ Comparison
 ---
 
 ![Kar is having fun with some data animation](https://user-images.githubusercontent.com/81752452/139082065-63b80f9b-f679-46fe-8ea0-d484a141b73d.gif)
-
----
-
-[Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/) (35 seconds runtime)
 
 ---
 
