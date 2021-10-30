@@ -23,7 +23,6 @@ Comparison
 ---
 
 [Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/) (35 seconds runtime)  
-*(Click here, If the dashboard link in my CV isn't working!)*  
 
 ---
 
