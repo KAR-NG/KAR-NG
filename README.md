@@ -21,8 +21,9 @@ Comparison
 [Oats Variety-Fertilizer Split-plot Field Experiment](https://github.com/KAR-NG/Oats_Variety-Fertilizer_SplitPlot_Field_Experiment/blob/main/splitplot.md) | Statistical Group Comparison   
 
 ---
-*If the link in my CV isn't working, please click here!*
-[Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/) (35 seconds runtime)
+
+[Interactive Dashboard (ShinyApp.io)](https://karhou.shinyapps.io/tita_db/) (35 seconds runtime)  
+*(Click here, If the dashboard link in my CV isn't working!)*  
 
 ---
 
