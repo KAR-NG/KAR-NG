@@ -5,9 +5,9 @@
 🌱 13 Visitable projects:
  
  **Machine Learning**  
-[Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial Classifcation*) | EDA + Feature Engineering + ROSE's BOTH-sampling + Random Forest      
-[Titanic Mortality Analysis](https://rpubs.com/kar_ng/827540) (*Binomial Classification*) | Mapping + 3 ML algorithms + Interactive Dashboard (ShinyApp.io)  
-[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) (*Multinomial Classification*) | EDA + Feature Engineering + 7 ML algorithms + Plumber App  
+[Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial*) | EDA + Feature Engineering + ROSE's BOTH-sampling + Random Forest      
+[Titanic Mortality Analysis](https://rpubs.com/kar_ng/827540) (*Binomial*) | Mapping + 3 ML algorithms + Interactive Dashboard (ShinyApp.io)  
+[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) (*Multinomial*) | EDA + Feature Engineering + 7 ML algorithms + Plumber App  
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) (*Regression*) | EDA + Text Mining + Inferential Model + MLR + Random Forest   
 [Boston House Pricecs Prediction](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) (*Regression*) | EDA + 7 ML algorithms + RShiny App  
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + Machine Learning Techniques + Statistical Group Comparison  
