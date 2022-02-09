@@ -4,16 +4,19 @@
 
 🌱 13 Visitable projects:
  
-[E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) | EDA + Text Mining + Inferential Model + **Machine Learning** (Random Forest)     
-[Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + **Machine Learning** (Techniques) + Statistical Group Comparision  
-[Titanic Mortality Complete Analysis](https://rpubs.com/kar_ng/827540) (RPubs) | Mapping + **Machine Learning** (Classification) + Interactive Dashboard (ShinyApp.io)
-[Special-version Boston Housing Dataset Analysis](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) | **Machine Learning** (Regression) + RShiny App  
+ **Machine Learning**  
+[Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial Classifcation*) | EDA + Feature Engineering + ROSE's BOTH-sampling + Random Forest      
+[Titanic Mortality Analysis](https://rpubs.com/kar_ng/827540) (*Binomial Classification*) | Mapping + 3 ML algorithms + Interactive Dashboard (ShinyApp.io)  
+[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) (*Multinomial Classification*) | EDA + Feature Engineering + 7 ML algorithms + Plumber App  
+[E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) (*Regression*) | EDA + Text Mining + Inferential Model + MLR + Random Forest   
+[Boston House Pricecs Prediction](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) (*Regression*) | EDA + 7 ML algorithms + RShiny App  
+[Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + Machine Learning Techniques + Statistical Group Comparison  
+
+**Analytics and Statistics**  
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 [Bike-Share Big Data Analysis](https://rpubs.com/kar_ng/786210) (RPubs) | EDA + Mapping  
 [Brisbane Real Estate Sales](https://rpubs.com/kar_ng/787195) (RPubs) | EDA + Mapping  
-[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation   
-[Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) | **Machine Learning** 
-(Classification) + Plumber App  
+[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation    
 [Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast + PowerBI   
 [Cucumber Multi-Env Latin Square Field Experiment](https://github.com/KAR-NG/Cucumber_Multi-Env_LatinSquare_Field_Experiment/blob/main/multi_latin.md) | Statistical Group 
 Comparison  
