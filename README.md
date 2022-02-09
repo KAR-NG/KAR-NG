@@ -9,7 +9,7 @@
 [Titanic Mortality Analysis](https://rpubs.com/kar_ng/827540) (*Binomial*) | Interative Map + 3 ML algorithms + Interactive Dashboard (ShinyApp.io)  
 [Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) (*Multinomial*) | EDA + Feature Engineering + 7 ML algorithms + Plumber App  
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) (*Regression*) | EDA + Text Mining + Inferential Model + MLR + Random Forest   
-[Boston House Pricecs Prediction](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) (*Regression*) | EDA + 7 ML algorithms + RShiny App  
+[Boston Housing Prices Prediction](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) (*Regression*) | EDA + 7 ML algorithms + RShiny App  
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + Machine Learning Techniques + Statistical Group Comparison  
 
 **Analytics and Statistics**  
