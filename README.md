@@ -2,7 +2,7 @@
 
 ---
 
-🌱 13 Visitable projects:
+🌱 Visitable projects:
  
  **Machine Learning**  
 [Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial*) | EDA + Feature Engineering + ROSE's BOTH-sampling + Random Forest      
