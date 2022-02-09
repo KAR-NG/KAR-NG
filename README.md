@@ -13,11 +13,11 @@
 [Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md)  | Inferential Models + Machine Learning Techniques + Statistical Group Comparison  
 
 **Analytics and Statistics**  
+[Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast + PowerBI   
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 [Bike-Share Big Data Analysis](https://rpubs.com/kar_ng/786210) (RPubs) | EDA + Mapping  
 [Brisbane Real Estate Sales](https://rpubs.com/kar_ng/787195) (RPubs) | EDA + Mapping  
-[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation    
-[Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast + PowerBI   
+[Dirty Data Challenge](https://github.com/KAR-NG/Dirty-Data-Challenge-/blob/main/cleaning.md) | Text Wangling, Imputation Model, Dummy Matrix, Data Cleaning and Manipulation 
 [Cucumber Multi-Env Latin Square Field Experiment](https://github.com/KAR-NG/Cucumber_Multi-Env_LatinSquare_Field_Experiment/blob/main/multi_latin.md) | Statistical Group 
 Comparison  
 [Maize: Soil-Nutrient CRD Glasshouse Experiment](https://github.com/KAR-NG/Maize_Soil_Nutrient_CRD_Glasshouse_Experiment-/blob/main/maize_crd.md) | Statistical Group Comparison   
