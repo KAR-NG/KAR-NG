@@ -5,7 +5,7 @@
 🌱 Demo projects:
  
  **Machine Learning**  
-[Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial*) | Feature Engineering + ROSE's BOTH-sampling + ROC + Random Forest      
+[Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial*) | Feature Engineering + ROSE's BOTH-sampling + ROC + 4 Tree Algorithms    
 [Titanic Mortality Analysis](https://rpubs.com/kar_ng/827540) (*Binomial*) | Interative Map + 3 ML algorithms + Interactive Dashboard (ShinyApp.io)  
 [Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) (*Multinomial*) | EDA + Feature Engineering + 7 ML algorithms + Plumber App  
 [Statistical Analysis and Machine Learning of Iris Flowers](https://github.com/KAR-NG/Statistical-Analysis-and-Machine-Learning-of-Iris-Flowers/blob/main/iris.md) (*Multinomial*) | Feature Engineering + Statistical Comparison + 14 ML Models   
