@@ -11,7 +11,7 @@
 [Statistical Analysis and Machine Learning of Iris Flowers](https://github.com/KAR-NG/Statistical-Analysis-and-Machine-Learning-of-Iris-Flowers/blob/main/iris.md) (*Multinomial*) | Feature Engineering + Statistical Comparison + 14 ML Models   
 [E-commence Clothes Sales](https://github.com/KAR-NG/cloth/blob/main/summer.md) (*Regression*) | EDA + Text Mining + Inferential Model + MLR + Random Forest   
 [Boston Housing Prices Prediction](https://github.com/KAR-NG/Predicting-House-Prices-in-Boston_UniqueVersion/blob/main/boston.md) (*Regression*) | EDA + 7 ML algorithms + RShiny App  
-[Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md) (*Regression*) | Inferential Models + Machine Learning Techniques + Statistical Group Comparison
+[Marketing Analytics](https://github.com/KAR-NG/Marketing_Analytics/blob/main/marketing.md) (*Regression*) | Inferential Models + Machine Learning Techniques + Statistical Group Comparison  
 [Avocado prices EDA and Forecast](https://github.com/KAR-NG/Houston_Avocado_Prices_EDA_-_Forecast/blob/main/avocado.md) | EDA + Forecast + PowerBI   
 [Resort Hotel vs City Hotel](https://github.com/KAR-NG/ResortHotel_versus_CityHotel/blob/main/Rmarkdown.md) | EDA  
 [Bike-Share Big Data Analysis](https://rpubs.com/kar_ng/786210) (RPubs) | EDA + Mapping  
