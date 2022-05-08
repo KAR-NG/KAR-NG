@@ -4,8 +4,7 @@
 
 🌱 Demo projects:
  
- [Food Poison Survey Analysis using MCA](https://github.com/KAR-NG/Food-Poison-Survey-Analysis-using-Multiple-Correspondence-Analysis/blob/main/poison.md) (PC Methods)
- 
+ [Food Poison Survey Analysis using MCA](https://github.com/KAR-NG/Food-Poison-Survey-Analysis-using-Multiple-Correspondence-Analysis/blob/main/poison.md) (*Unsupervised - PC Methods*) | Dimension reduction, Scree plot, Var plot, Ind Plot, Cos2, Contrib Statistics   
 [Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial*) | Feature Engineering + ROSE's BOTH-sampling + ROC + 4 Tree Algorithms    
 [Titanic Mortality Analysis](https://rpubs.com/kar_ng/827540) (*Binomial*) | Interative Map + 3 ML algorithms + Interactive Dashboard (ShinyApp.io)  
 [Recommendation of Crop Classes by Predictive Model](https://github.com/KAR-NG/Recommendation_of_Crop_Classes_by_Predictive_Model/blob/master/crop.md) (*Multinomial*) | EDA + Feature Engineering + 7 ML algorithms + Plumber App  
