@@ -4,7 +4,7 @@
 
 🌱 Demo projects: 
 
-[Human Resource Data Mining](https://github.com/KAR-NG/Human-Resource-Data-Mining/blob/main/hr.md)(*Supervised + Unsupervised*) | Gower-PAM clustering, CA, MCA, MLR, KNN, SVM, and Random Forest.  
+[Human Resource Data Mining](https://github.com/KAR-NG/Human-Resource-Data-Mining/blob/main/hr.md) (*Supervised + Unsupervised*) | Gower-PAM clustering, CA, MCA, MLR, KNN, SVM, and Random Forest.  
  [Credit Card Market Segmentation](https://github.com/KAR-NG/Credit-Card-Market-Segmentation/blob/main/cc.md) (*Unsupervised - Clustering + PCA*) | CLARA, Hk-means Hybrid, FCM, Model-Based Clustering, DBSCAN  
  [Food Poison Survey Analysis using MCA](https://github.com/KAR-NG/Food-Poison-Survey-Analysis-using-Multiple-Correspondence-Analysis/blob/main/poison.md) (*Unsupervised - PC Methods*) | Scree plot, Var-Ind-cor Plot, biplot, Cos2, Contrib Statistics   
 [Loan EDA and Machine Learning Prediction](https://github.com/KAR-NG/Loan-EDA-and-Machine-Learning-Prediction/blob/main/loan.md) (*Binomial*) | Feature Engineering + ROSE's BOTH-sampling + ROC + 4 Tree Algorithms    
