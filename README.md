@@ -2,7 +2,7 @@
 
 ---
 
-🌱 Demo projects: 
+🌱 Demo projects: 18
 
 [Human Resource Data Mining](https://github.com/KAR-NG/Human-Resource-Data-Mining/blob/main/hr.md) (*Supervised + Unsupervised ML*) | Gower-PAM clustering, CA, MCA, MLR, KNN, SVM, and Random Forest
  [Credit Card Market Segmentation](https://github.com/KAR-NG/Credit-Card-Market-Segmentation/blob/main/cc.md) (*Unsupervised - Clustering + PCA*) | CLARA, Hk-means Hybrid, FCM, Model-Based Clustering, DBSCAN  
