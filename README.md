@@ -31,7 +31,7 @@ Comparison
 
 ---
 
-![work_sample](https://user-images.githubusercontent.com/81752452/139084192-2485d28d-da66-44e5-884a-06f924d6d913.png)
+![github_projects](https://user-images.githubusercontent.com/81752452/177546805-57039b7a-a0dd-41f7-a355-b1abbf484289.png)
 
 ---
 
