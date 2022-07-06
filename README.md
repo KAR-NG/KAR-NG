@@ -35,8 +35,6 @@ Comparison
 
 ---
 
-*Examples*
-
 ![yes](https://user-images.githubusercontent.com/81752452/139346003-6aa5b6ea-ee47-481c-bc9f-0d62b8732acf.png)
 
 
