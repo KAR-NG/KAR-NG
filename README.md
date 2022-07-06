@@ -3,7 +3,7 @@
 ---
 
 🌱 Demo projects: 
-
+[Life Expectancy Statistical Analysis](https://github.com/KAR-NG/life/blob/main/life.md) (*Unsupervised ML + Statistical Analysis*) | MFA, PCA, MLR, t-test, Wilcoxon test, Mixed Modeling      
 [Human Resource Data Mining](https://github.com/KAR-NG/Human-Resource-Data-Mining/blob/main/hr.md) (*Supervised + Unsupervised ML*) | Gower-PAM clustering, CA, MCA, MLR, KNN, SVM, and Random Forest  
  [Credit Card Market Segmentation](https://github.com/KAR-NG/Credit-Card-Market-Segmentation/blob/main/cc.md) (*Unsupervised - Clustering + PCA*) | CLARA, Hk-means Hybrid, FCM, Model-Based Clustering, DBSCAN    
  [Food Poison Survey Analysis using MCA](https://github.com/KAR-NG/Food-Poison-Survey-Analysis-using-Multiple-Correspondence-Analysis/blob/main/poison.md) (*Unsupervised - PC Methods*) | Scree plot, Var-Ind-cor Plot, biplot, Cos2, Contrib Statistics   
